@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/1scssJb/7048312.jpg",
+      "title": "The Secrets of the Universe",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co.com/y8gsQQG/windows-Yi42-Mb-W3-Ayc-unsplash.jpg",
+      "posted_date": "2024-10-01",
+      "reading_time": 5,
+      "hashtags": ["#science", "#universe", "#secrets"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/1scssJb/7048312.jpg",
+      "title": "Journey Through Time",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co.com/y8gsQQG/windows-Yi42-Mb-W3-Ayc-unsplash.jpg",
+      "posted_date": "2024-10-05",
+      "reading_time": 8,
+      "hashtags": ["#history", "#time", "#adventure"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/1scssJb/7048312.jpg",
+      "title": "Cooking with Nature",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co.com/y8gsQQG/windows-Yi42-Mb-W3-Ayc-unsplash.jpg",
+      "posted_date": "2024-10-10",
+      "reading_time": 10,
+      "hashtags": ["#cooking", "#nature", "#recipes"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/1scssJb/7048312.jpg",
+      "title": "The Art of Minimalism",
+      "author": "Michael Brown",
+      "author_img": "https://i.ibb.co.com/y8gsQQG/windows-Yi42-Mb-W3-Ayc-unsplash.jpg",
+      "posted_date": "2024-10-15",
+      "reading_time": 7,
+      "hashtags": ["#minimalism", "#art", "#lifestyle"]
+    }
+  ]
+  
